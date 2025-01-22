@@ -279,7 +279,7 @@ top: -20px;
 background: url(<path-to-image>) lightgray 50% / cover no-repeat, #FFF;
 }
 .one{
-
+    
 }
 .one button{
     background: #95B226;
@@ -445,8 +445,8 @@ font-weight: 700;
   .angel{
     display: none;
   }
-  .socious{
-    text-align: center;
+  .card-one p{
+    margin-left: 60px;
   }
 
 }
